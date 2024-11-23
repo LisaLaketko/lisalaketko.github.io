@@ -1,2 +1,2 @@
-# lisalaketko.github.io
-«Сайт визитка HTML, CSS»
+# cv_test
+Сайт-визика на HTML + CSS + JS
